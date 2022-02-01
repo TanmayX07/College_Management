@@ -1,2 +1,3 @@
-# College_Management
-This is a College Management project based on the idea of administrative service.
+# COLLEGE-MANAGEMENT
+
+This is a C++ Project
